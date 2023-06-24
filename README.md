@@ -1,4 +1,4 @@
-# VertexML
+# Introduction
 
 A machine learning approach to find the interaction vertices of the reconstructed tracks at SpinQuest experiment.
 
